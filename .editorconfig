@@ -1,0 +1,8 @@
+root = true
+
+[Makefile]
+indent_style = tab
+
+[{*.erl, rebar.config, *.app.src}]
+indent_style = space
+indent_size = 2
